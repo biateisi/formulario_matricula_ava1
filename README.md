@@ -4,6 +4,20 @@
 
 > Protótipo acadêmico para aplicação dos conceitos de desenvolvimento integrado demonstrando um fluxo completo de inscrição e gestão de matrículas com validação em múltiplas camadas.
 
+## Índice
+- [Formulário de Matrícula em Cursos Online](#formulário-de-matrícula-em-cursos-online)
+  - [Índice](#índice)
+  - [Visão Geral](#visão-geral)
+  - [Estrutura de Pastas](#estrutura-de-pastas)
+  - [Endpoints (Backend)](#endpoints-backend)
+  - [Fluxo de Validação](#fluxo-de-validação)
+  - [Componentes Frontend](#componentes-frontend)
+  - [Padrão de UI / Feedback](#padrão-de-ui--feedback)
+  - [Decisões Técnicas Principais](#decisões-técnicas-principais)
+  - [Como Executar](#como-executar)
+  - [Fluxo de Uso](#fluxo-de-uso)
+  - [Licença](#licença)
+
 
 ## Visão Geral
 Aplicação full‑stack dividida em:
